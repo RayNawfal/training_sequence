@@ -1,0 +1,8 @@
+scramjet-framework-py
+numpy==1.21.4
+nltk==3.8.1
+keras==2.11.0
+pathlib
+tensorflow==2.11.0
+pyee
+
